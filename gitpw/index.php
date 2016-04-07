@@ -309,7 +309,11 @@ switch (ENVIRONMENT)
  * --------------------------------------------------------------------
  * LOAD THE BOOTSTRAP FILE
  * --------------------------------------------------------------------
+<<<<<<< HEAD
  *
  * And away we go...a
+=======
+ * And away we go...
+>>>>>>> origin/copy_master
  */
 require_once BASEPATH.'core/CodeIgniter.php';
