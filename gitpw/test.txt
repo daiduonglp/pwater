@@ -1,6 +1,0 @@
-abc
-<<<<<<< HEAD
-bcd
-=======
-def
->>>>>>> origin/copy_master
