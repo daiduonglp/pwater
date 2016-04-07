@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello
 hello
+=======
+hi
+hi
+>>>>>>> hikarukl-patch-2
