@@ -310,6 +310,6 @@ switch (ENVIRONMENT)
  * LOAD THE BOOTSTRAP FILE
  * --------------------------------------------------------------------
  *
- * And away we go...a
+ * And away we go...c
  */
 require_once BASEPATH.'core/CodeIgniter.php';
