@@ -68,10 +68,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>This is homepage of Github Page Test</h1>
+	<h1>This is Dai Duong Page Test</h1>
 	<div id="body">
-		<p>Welcome guys.</p>
-		<a href="<?= base_url().'daiduong/'?>">Vũ Đại Dương</a>
+		<p>Welcome guys</p>
+
 </div>
 
 </body>
