@@ -1,5 +1,6 @@
 <?php
 /**
+ *
  * CodeIgniter
  *
  * An open source application development framework for PHP
@@ -310,6 +311,7 @@ switch (ENVIRONMENT)
  * LOAD THE BOOTSTRAP FILE
  * --------------------------------------------------------------------
  *
- * And away we go...
+ *And away we go...
+ *
  */
 require_once BASEPATH.'core/CodeIgniter.php';
