@@ -12,3 +12,4 @@ a
 sai roi
 khong biet
 chao ban
+Chao chi
