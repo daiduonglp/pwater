@@ -10,7 +10,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	::selection { background-color: #E13300; color: white; }
 	::-moz-selection { background-color: #E13300; color: white; }
-
 	body {
 		background-color: #fff;
 		margin: 40px;
@@ -71,7 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>This is homepage of Github Page Test</h1>
 	<div id="body">
 		<p>Welcome guys.</p>
-		<a href="<?= base_url().'daiduong/'?>">Vũ Đại Dương</a>
+		<a href="<?= base_url().'daiduong/'?>">VÅ© Ä�áº¡i DÆ°Æ¡ng</a>
 </div>
 
 </body>
