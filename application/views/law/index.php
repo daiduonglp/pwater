@@ -74,6 +74,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div id="lipsum">
                 <p>
                 In criminal law, criminal prosecutions are brought in the name of the People.
+<!-- [Start][minh_nhut] -->
+                <!-- In criminal law, in certain jurisdictions, criminal prosecutions are brought in the name of the People. -->
+                criminal trials in Ireland and the Philippines are prosecuted in the name of the people of their respective states.
+<!-- [End][minh_nhut] -->
                 Several U.S. states, including California, Illinois, and New York, use this style.
                 Citations outside the jurisdictions in question usually substitute the name of the state for the words "the People" in the case captions.
                 Four states — Massachusetts, Virginia, Pennsylvania, and Kentucky — refer to themselves as the Commonwealth in case captions and legal process.
