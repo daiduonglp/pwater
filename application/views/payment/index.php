@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <span>
         A secretary or administrator provides both clerical and administrative support to professionals, either as part of a team or individually. The role plays a vital part in the administration and smooth-running of businesses throughout industry.
         Secretaries/administrators are involved with the coordination and implementation of office procedures and frequently have responsibility for specific projects and tasks and, in some cases, oversee and supervise the work of junior staff.
-        The role varies greatly depending on the sector, the size of the employer and levels of responsibility. Most work involves both written and oral communication, word processing and typing, and requires relevant skills such as IT, organisational and presentation skills, as well as the ability to multi-task and work well under pressure.
+        In some cases, secretaries/administrators are required to have high-level qualifications and previous experience in specialist sectors, such as law, for example. Most work involves both written and oral communication, word processing and typing, and requires relevant skills such as IT, organisational and presentation skills, as well as the ability to multi-task and work well under pressure.
     </span>
     </div>
 </div>
