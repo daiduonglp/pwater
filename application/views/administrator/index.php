@@ -1,3 +1,6 @@
+<!-- [Start][thanh_my] -->
+Mỹ lùn nhưng mà dễ thương =))
+<!-- [End][thanh_my] -->
 The administration of a business includes the performance or management of business operations and decision making, as well as the efficient organization of people and other resources, to direct activities toward common goals and objectives.
 
 In general, administration refers to the broader management function, including the associated finance, personnel and MIS services.
