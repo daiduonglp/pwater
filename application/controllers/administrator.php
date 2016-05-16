@@ -2,5 +2,7 @@
 class administrator extends Controller 
 function index() {
 }
+function index() {
+}
 }
  
