@@ -73,6 +73,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="box">
             <div id="lipsum">
                 <p>
+<!-- [Start][van_thuat] -->
+Mỹ lùn tịt =))
+<!-- [End][van_thuat] -->	
                 In criminal law, criminal prosecutions are brought in the name of the People.
 <!-- [Start][minh_nhut] -->
                 <!-- In criminal law, in certain jurisdictions, criminal prosecutions are brought in the name of the People. -->
