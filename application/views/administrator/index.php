@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 bfgf
+=======
+<!-- [Start][thanh_my] -->
+Mỹ lùn nhưng mà dễ thương =))
+<!-- [End][thanh_my] -->
+>>>>>>> c2d254a9358ff5ffd66574ab6360d06ee8f04a22
 The administration of a business includes the performance or management of business operations and decision making, as well as the efficient organization of people and other resources, to direct activities toward common goals and objectives.
 
 In gfgfgeneral, administration refers to the broader management function, including the associated finance, personnel and MIS services.
