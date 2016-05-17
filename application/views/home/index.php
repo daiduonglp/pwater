@@ -69,8 +69,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div id="container">
     <h1>This is homepage of Github Page Test</h1>
     <div id="body">
-        <p>Welcome guys.</p>
-        <a href="<?= base_url().'daiduong/'?>">Vũ Đại Dương</a>
+        <p>Go to these link for more informations</p>
+        <ul>
+            <li><a href="<?= base_url().'contract/'?>">Contract</a></li>
+            <li><a href="<?= base_url().'information/'?>">Information</a></li>
+            <li><a href="<?= base_url().'product/'?>">Product</a></li>
+            <li><a href="<?= base_url().'user/'?>">User</a></li>
+            <li><a href="<?= base_url().'admin/'?>">Admin</a></li>
+            <li><a href="<?= base_url().'payment/'?>">Payment</a></li>
+            <li><a href="<?= base_url().'delivery/'?>">Delivery</a></li>
+            <li><a href="<?= base_url().'address/'?>">Address</a></li>
+            <li><a href="<?= base_url().'holiday/'?>">Holiday</a></li>
+        </ul>
+    </div>
 </div>
 
 </body>
