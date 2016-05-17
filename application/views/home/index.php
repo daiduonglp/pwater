@@ -81,6 +81,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <li><a href="<?= base_url().'address/'?>">Address</a></li>
             <li><a href="<?= base_url().'holiday/'?>">Holiday</a></li>
         </ul>
+        <p>A product needs to be relevant: the users must have an immediate use for it. A product needs to be functionally able to do what it is supposed to, and do it with a good quality.
+A product needs to be communicated: Users and potential users must know why they need to use it, what benefits they can derive from it, and what it does difference it does to their lives. Advertising and 'brand building' best do this.</p>
     </div>
 </div>
 
