@@ -70,7 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <h1>This is homepage of Github Page Test</h1>
     <div id="body">
         <p>Welcome guys.</p>
-        <a href="<?= base_url().'daiduong/'?>">Vũ Đại Dương</a>
+        <a href="<?= base_url().'daiduong/'?>">fffffffffffffffffffffsssssssss</a>
 </div>
 
 </body>
