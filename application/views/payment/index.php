@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Welcome to CodeIgniter</title>
+    <title>Welcome to payment_page</title>
 
     <style type="text/css">
 
@@ -67,20 +67,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-    <h1>This is homepage of Github Page Test</h1>
+    <h1>This is Payment Page</h1>
     <div id="body">
-        <p>Go to these link for more informations</p>
-        <ul>
-            <li><a href="<?= base_url().'contract/'?>">Contract</a></li>
-            <li><a href="<?= base_url().'information/'?>">Information</a></li>
-            <li><a href="<?= base_url().'product/'?>">Product</a></li>
-            <li><a href="<?= base_url().'user/'?>">User</a></li>
-            <li><a href="<?= base_url().'admin/'?>">Admin</a></li>
-            <li><a href="<?= base_url().'payment/'?>">Payment</a></li>
-            <li><a href="<?= base_url().'delivery/'?>">Delivery</a></li>
-            <li><a href="<?= base_url().'address/'?>">Address</a></li>
-            <li><a href="<?= base_url().'holiday/'?>">Holiday</a></li>
-        </ul>
+    <span>
+        A secretary or administrator provides both clerical and administrative support to professionals, either as part of a team or individually. The role plays a vital part in the administration and smooth-running of businesses throughout industry.
+        Secretaries/administrators are involved with the coordination and implementation of office procedures and frequently have responsibility for specific projects and tasks and, in some cases, oversee and supervise the work of junior staff.
+        The role varies greatly depending on the sector, the size of the employer and levels of responsibility. Most work involves both written and oral communication, word processing and typing, and requires relevant skills such as IT, organisational and presentation skills, as well as the ability to multi-task and work well under pressure.
+    </span>
     </div>
 </div>
 
